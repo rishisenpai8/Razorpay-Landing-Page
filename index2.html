@@ -1,0 +1,22 @@
+<div class="slider overflow-hidden whitespace-nowrap">
+  <div class="slider-track flex animate-scroll">
+    <!-- Repeat this card -->
+    <div class="card-container w-[300px] h-[400px] mx-4 perspective">
+      <div class="card relative w-full h-full transition-transform duration-700 [transform-style:preserve-3d] hover:[transform:rotateY(180deg)]">
+        <!-- Front -->
+        <div class="front absolute w-full h-full bg-white shadow-lg rounded-lg backface-hidden">
+          <img src="..." class="w-full h-3/4 object-cover rounded-t-lg">
+          <div class="p-4">
+            <h2 class="font-bold text-lg">Name</h2>
+            <p class="text-sm">Title</p>
+          </div>
+        </div>
+        <!-- Back -->
+        <div class="back absolute w-full h-full bg-gray-100 shadow-lg rounded-lg backface-hidden rotate-y-180 p-4">
+          <p class="text-base">"Founder review text here."</p>
+        </div>
+      </div>
+    </div>
+    <!-- End of card -->
+  </div>
+</div>

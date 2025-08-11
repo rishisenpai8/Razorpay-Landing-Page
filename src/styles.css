@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'TasaOrbiter';
+    src: url('../fonts/tasa-orbiter-font-family-1750123487-0//TASAOrbiterText-SemiBold-BF64891cba09cfc.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
