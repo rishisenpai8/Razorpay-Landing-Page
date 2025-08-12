@@ -11,6 +11,8 @@ This project showcases modern design practices, custom animations, and interacti
 -Fully responsive design for desktop, tablet, and mobile
 -Built entirely with TailwindCSS and GSAP
 
+Demo Video
+https://github.com/user-attachments/assets/6ec33381-2932-4dd2-9d91-f93bdfdcd825
 
 🛠 Tech Stack
 HTML5 — semantic markup
